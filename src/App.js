@@ -52,6 +52,9 @@ function App() {
           <span></span>
         </button>
         <span> &larr; click me, animation by addind CSS class</span>
+        <p className='mt-20 underline'>
+          Note: try resizing screen to see how it works
+        </p>
         <hr />
         <article>
           <h2 className='text-center'>CSS Classes visibility</h2>
