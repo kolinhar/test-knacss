@@ -1,6 +1,4 @@
-@import '../node_modules/knacss/sass/knacss';
-@import './styles/variables-sass';
-@import './styles/mixins-sass';
+@import './styles/knacss/sass/knacss';
 
 input[type='text'] {
   border: 1px solid grey !important;
